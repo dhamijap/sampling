@@ -119,20 +119,23 @@ Identify and describe survey features:
     Data was collected in census through an online survey or over the phone. These sources of data were then inputted into a database online. They then did the same for the second survey about volunteering.  
 
 10. Cleaning, imputation, etc
-    Data was input by the partcipants of the study. This means that the participant reads throug hthe question and then is inputting the records through a score. 
+    Data was input by the partcipants of the study. This means that the participant reads through the question and then is inputting the records as a score. 
     There were three main validation measures used: 
     1. Analysis of changes over time
-        
+        This means that they look for unlikely numerical events like outliers, or sudden unlikely changes in the numbers (like a family having 1 child under 10 to having 100). 
     2. Verification of estimates through cross-tabulations
+        Comparing mutliple intputs of data for the same person to look for logical issues. For example if a person's age is 12 and they are marked as retired. 
     3. Confrontation with other similar sources of data. 
-        This means that they compared this dat with other data sources to make sure that they were in line. 
+        This means that they compared answers on certain questions on this test with other data sources to make sure that they are in accord. This means that the looked for data that looked incorrect as an issue with the question. And if some questions are often are misinterpreted, they looked to correct the question itself. 
 
 
 11. Sources of error
     Common sources of error are imperfect coverage and non-response. Imperfect coverage is largely due to that people without good contact information were excluded, and thus this might introduce bias. Non-response is also an issue whereby individuals choose not to respond, which may be due to a third, unaccounted for variable. This would have an effet on our sampling and might introudce a bias that we are not accounting for since we cannot know about the individuals who did not fill out the survey. 
 
 12. Limitations, known biases, etc
-    The sourecs of error above would likely introduce biases. Especially with issues of non-responding, or if the definitions of volunteering is not the same for all participants and they self-select out. 
+    The sources of error above would likely introduce biases. Especially with issues of non-responding, or if the definitions of volunteering is not the same for all participants and they self-select out. 
+
+    The authors also noted that it is hard to compare the results of this survey with previous years because of the change in the survey itself as it is moved to an online format. They also noted that the participants may have been more likely to overreport their volunteering hours since it is sociallly desirable. 
 
 13. Link to documentation and any additional sources used
     - https://www150.statcan.gc.ca/n1/en/catalogue/45250011
